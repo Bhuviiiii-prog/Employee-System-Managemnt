@@ -10,8 +10,8 @@ The primary goal of this system is to automate the manual employee management pr
 includes storing employee records, computing payroll, managing claims and leaves, and providing
 analytical features such as salary distribution and average calculations.
 3.Detailed Feature List
-->Authentication Module
-  Password protection for access
+Authentication Module
+  (Password protection for access)
 ->Employee Module
  View and Print Records
  Add/Delete Employee
